@@ -16,6 +16,12 @@ h1 {
   font-size: 28px;
 }
 
+h2 {
+  color: limegreen;
+  font-family: "Times New Roman";
+  font-size: 24px;
+}
+
 p {
 	font-family: "Arial";
 	text-align: justify;
@@ -28,4 +34,8 @@ html, body {
 blockquote {
 	text-align: justify;
 	text-decoration: oblique;
+}
+
+img {
+	border: 4px solid limegreen;
 }
